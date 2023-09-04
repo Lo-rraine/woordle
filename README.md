@@ -1,0 +1,3 @@
+# woordle
+
+GRASPING THE BASICS OF PYTHON
