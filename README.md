@@ -2,4 +2,4 @@
 
 GRASPING THE BASICS OF PYTHON
 
-using a woordle
+THIS IS MY STUFF
